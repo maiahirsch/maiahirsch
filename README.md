@@ -20,14 +20,14 @@ To inspire future generations by breaking stereotypes, blending fashion and engi
 ---
 
 ## 📂 Featured Projects
+### 🕊 [Peace Offer](https://github.com/maiahirsch/PeaceOffer)  
+Wearable blooming flower dress activated by the touch of the wearer's hand, funded by the **Backslash Award at Cornell Techt**.
+
 ### 🌌 [The Flower Awakens](https://github.com/maiahirsch/TheFlowerAwakens)  
 Controlling flowers on a dress using 'The Force'
 
 ### 🤖 [Wearable Haptic Vest](https://github.com/maiahirsch/haptic-vest)  
 Redesigned soft inflatable pouches to simulate a hug, with uniform and unidirectional force output.
-
-### 🦋 [Peace Offer](https://github.com/maiahirsch/PeaceOffer)  
-Wearable blooming flower dress activated by the touch of the wearer's hand, funded by the **Backslash Award at Cornell Techt**.
 
 ---
 
