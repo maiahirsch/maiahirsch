@@ -1,5 +1,4 @@
 
-
 # Maia Hirsch — High-Tech Couture Engineer 👩‍💻👗  
 Hi, I’m Maia! A mechanical engineering student specializing in robotics, combining **fashion** and **engineering** to create awe-inspiring, interactive designs.
 
