@@ -1,5 +1,5 @@
 
-# Maia Hirsch — Engineering Fashion👩‍💻👗  
+# Maia Hirsch — Engineering 👩‍💻👗  
 Hi, I’m Maia! A mechanical engineering student specializing in robotics, combining **fashion** and **engineering** to create awe-inspiring, interactive designs.
 
 ## 👩‍🎓 About Me
@@ -42,3 +42,4 @@ Redesigned soft inflatable pouches to simulate a hug, with uniform and unidirect
 - 💼 [Portfolio](https://www.maia-hirsch.com/)  
 - 📸 [Instagram](https://instagram.com/hightechcouture)  
 - 🖇️ [LinkedIn](https://linkedin.com/in/maiahirsch)  
+
